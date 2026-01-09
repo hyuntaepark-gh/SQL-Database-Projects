@@ -26,18 +26,19 @@ Key objectives:
 
 ```
 
-tradingdb-project/
-├── schema/
-│ └── er_diagram.pdf
-├── sql/
-│ ├── create_tables.sql
-│ ├── insert_data.sql
-│ └── queries.sql
-├── report/
-│ └── database_design_report.pdf
-├── diagrams/
-│ └── system_flow_diagram.pdf
-└── README.md
+stock-trading-database/
+├─ README.md
+├─ ERD/
+│  └─ ER_Diagram.pdf
+├─ schema/
+│  └─ create_tables.sql
+├─ queries/
+│  ├─ basic_queries.sql
+│  ├─ joins.sql
+│  └─ advanced_queries.sql
+└─ docs/
+   ├─ database_overview.md
+   └─ assignment_summary.pdf
 
 ```
 
