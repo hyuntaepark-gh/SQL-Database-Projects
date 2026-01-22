@@ -41,7 +41,7 @@ stock-trading-database/
    └─ assignment_summary.pdf
 
 ```
-
+1,8,10,11,14,17
 ---
 
 ## 🧠 Database Design Highlights
