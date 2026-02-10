@@ -1,4 +1,4 @@
-# 🗄️ SQL & Database Design Projects
+# 🗄️ AWS & SQL & Database Design Projects
 
 This repository showcases hands-on SQL and database design projects focused on
 relational schema modeling, normalization, and real-world business use cases.
