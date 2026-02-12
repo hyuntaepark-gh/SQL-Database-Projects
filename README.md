@@ -1,5 +1,16 @@
 # 🗄️ AWS & SQL & Database Design Projects
 
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database%20Design-CC2927)
+![ER Modeling](https://img.shields.io/badge/ER-Modeling-0A66C2)
+![Normalization](https://img.shields.io/badge/3NF-Normalization-6A1B9A)
+![Relational Design](https://img.shields.io/badge/Relational-Database%20Design-1E88E5)
+![Schema Design](https://img.shields.io/badge/Schema-Architecture-2E7D32)
+![Junction Tables](https://img.shields.io/badge/Many--to--Many-Junction%20Tables-00897B)
+![Constraints](https://img.shields.io/badge/PK%2FFK-Constraints-795548)
+![Database Fundamentals](https://img.shields.io/badge/Database-Fundamentals-FF6F00)
+![Data Modeling](https://img.shields.io/badge/Data-Modeling-FF7043)
+
 This repository showcases hands-on SQL and database design projects focused on
 relational schema modeling, normalization, and real-world business use cases.
 
